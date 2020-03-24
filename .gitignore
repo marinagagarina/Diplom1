@@ -3,6 +3,13 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+node_modules
+.idea
+target
+*.iml
+
+
+
 
 ### STS ###
 .apt_generated
